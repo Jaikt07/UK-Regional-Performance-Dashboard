@@ -8,4 +8,4 @@ Key Insight #1: Region B had the highest start conversion efficiency, despite ha
 Key Insight #2: Region B has the highest percentage of achieved outcomes vs. target outcomes (71.3%), followed by Region C (67%). 
 
 ## Dashboard Preview
-![Dashboard Preview] (Uk Regional Performance Dashboard.png) 
+![Dashboard Preview] (Uk Regional Performance Dashboard Snippet.png) 
